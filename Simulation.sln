@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation", "Simulation\Simulation.csproj", "{8316FE1A-2AF7-459D-990A-41ACEFB25000}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{C12757CE-3813-49D4-AF9F-2879CF6F4453}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp1\WpfApp.csproj", "{C12757CE-3813-49D4-AF9F-2879CF6F4453}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
